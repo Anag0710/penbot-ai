@@ -1,4 +1,7 @@
 # PenBot AI Content Generator
+### [Check Project Demo App!](https://penbot-ai.vercel.app/)
+
+ [Know more about the Developer](https://bento.me/anag)
 
 PenBot AI is an intelligent content generation tool designed to assist in creating high-quality written content effortlessly. Whether you're writing blogs, documentation, or other forms of content, PenBot provides a seamless, user-friendly interface to help you generate and manage text with ease.
 
